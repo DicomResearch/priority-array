@@ -5,7 +5,7 @@
 ## Как использовать
 Установка:
 ```bash
-php composer.phar require dicomresearch/priorityArray
+php composer.phar require dicomresearch/priority-array
 ```
 
 Использование:
